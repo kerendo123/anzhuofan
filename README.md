@@ -5,7 +5,7 @@
 
 这些Andriod翻墙VPN多采用流行的Shadowsocks、V2ray或Trojan等翻墙协议，有效地绕过了GFW的封锁。部分翻墙VPN还提供IPLC内网专线，完全忽略了GFW的存在，即使在敏感时期也毫无压力，真正带给您“无墙体验”。
 
-针对那些采用专用翻墙协议的VPN供应商，我们起了一个新的称呼，称之为“机场”。本文提到的几个[安卓翻墙机场](https://github.com/gelangtai/mianfeiAndroid/ )都有定制的专属客户端，非常适合刚接触翻墙的新手，无需学习成本，上手简单。
+针对那些采用专用翻墙协议的VPN供应商，我们起了一个新的称呼，称之为“机场”。本文提到的几个[安卓翻墙机场](https://github.com/gelangtai/mianfeiAndroid/)都有定制的专属客户端，非常适合刚接触翻墙的新手，无需学习成本，上手简单。
 
 ## Westworld：
 官网地址：[https://xbsj6285.com/i/art029](https://xbsj6285.com/i/art029)
