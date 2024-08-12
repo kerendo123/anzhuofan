@@ -16,7 +16,8 @@ Westworld采用中转和IEPL专线节点，保证了稳定性和速度。
 
 ## Flyint飞数机场：
 
-这是一家运营约2年的翻墙机场，支持安卓、Windows和macOS，并提供定制的一键翻墙客户端。对于iOS系统，需要配合使用Shadowrocket（小火箭）、Quantumult X或Stash等第三方软件。该机场还提供游戏专线，可与Netch软件搭配使用。
+官网地址：[https://xuebispeed.com/](https://xuebispeed.com/)
+这是一家运营约2年的翻墙机场，支持安卓、Windows和macOS，并提供定制的一键翻墙客户端。对于iOS系统，有独立的客户端可以下载，覆盖电脑手机等多平台，网速很快。该机场还提供游戏专线，可与Netch软件搭配使用。
 
 飞数机场采用IEPL专线加速，相比直连线路，稳定性更强。
 
